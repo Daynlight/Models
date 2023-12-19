@@ -2,10 +2,6 @@
   
 # Security Policy
 
-## Supported Versions
-
-Only Latest Version is Supported
-
 ## Reporting a Vulnerability
 
 I. Add Title</br>
