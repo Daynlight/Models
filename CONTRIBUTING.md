@@ -15,6 +15,6 @@
   </td>
 </table>
 
-<img height="200px" src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/Info/Assets/Thanks.gif">
+<img height="200px" src="https://github.com/Kokomichrzan/Models/blob/Info/Assets/Thanks.gif">
 
 </div>

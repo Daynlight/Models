@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=100% src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/Info/Assets/Background.gif">
+  <img width=100% src="https://github.com/Kokomichrzan/Models/blob/Info/Assets/Background.gif">
 <h1>💖My 3D Models💖</h1>
 
 <h2>🌐About🌐</h2>
@@ -17,6 +17,6 @@ This is my 3D Model repo. All Models are created by me.
   </td>
 </table>
 
-<img height=200px src="https://github.com/Kokomichrzan/Kokomichrzan-Repo-Template/blob/Info/Assets/Features.gif">
+<img height=200px src="https://github.com/Kokomichrzan/Models/blob/Info/Assets/Features.gif">
 
 </div>
