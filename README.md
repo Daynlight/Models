@@ -1,5 +1,5 @@
 <div align=center>
-  <img width=100% src="https://github.com/Kokomichrzan/Models/blob/Info/Assets/Background.gif">
+  <img width=100% src="Assets/Background.gif">
 <h1>💖My 3D Models💖</h1>
 
 <h2>🌐About🌐</h2>
